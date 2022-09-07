@@ -78,3 +78,24 @@ small {
 .missions-third {
   background-color: #fff4d6;
 }
+.about-us {
+  display: flex;
+  /* margin-top: 90px; */
+  margin: 90px 160px 0 160px;
+}
+.about-us-first {
+  width: 40%;
+}
+.about-us img {
+  width: 80%;
+}
+.about-us-secound {
+  width: 60%;
+}
+.about-us-secound h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.community {
+  margin-right: 100px;
+}
