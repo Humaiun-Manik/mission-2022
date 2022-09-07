@@ -84,13 +84,13 @@ small {
   margin: 90px 160px 0 160px;
 }
 .about-us-first {
-  width: 40%;
+  width: 50%;
 }
 .about-us img {
   width: 80%;
 }
 .about-us-secound {
-  width: 60%;
+  width: 50%;
 }
 .about-us-secound h1 {
   font-size: 50px;
@@ -98,4 +98,20 @@ small {
 }
 .community {
   margin-right: 100px;
+}
+.corona-section h1 {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 100px;
+}
+.corona-img {
+  width: 300px;
+  height: 700px;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: #0b0d17;
+  padding: 40px;
 }
